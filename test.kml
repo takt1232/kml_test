@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="xmlns='http://earth.google.com/kml/2.0'">
+<kml xmlns="http://earth.google.com/kml/2.0">
   <Document>
     <name>Imaginary Ranch</name>
     <open>0</open>
     <LookAt>
-      <longitude>125.116646714849</longitude>
-      <latitude>6.10482200975186</latitude>
+      <longitude>125.117646714849</longitude>
+      <latitude>6.10582200975186</latitude>
       <range>50.5374203748827</range>
       <heading>0</heading>
     </LookAt>
@@ -34,18 +34,18 @@
           <dt>Cave Name</dt>
           <dd>yey_cave</dd>
           <dt>Coordinates</dt>
-          <dd>Latitude: 6.10469500, Longitude: 125.11652001</dd>
+          <dd>Latitude: 6.10569500, Longitude: 125.11752001</dd>
         </dl>
         <p class="links">
           <a href="#">Link to more cave information</a>
         </p>
       ]]></description>
       <Point>
-        <coordinates>125.11652001,6.10469500,0.00000000</coordinates>
+        <coordinates>125.11752001,6.10569500,0.00000000</coordinates>
       </Point>
       <styleUrl>#CaveStyle1</styleUrl>
     </Placemark>
-     <Placemark>
+    <Placemark>
       <name>yey_cave</name>
       <styleUrl>#CaveStyle1</styleUrl>
       <MultiGeometry>
@@ -56,12 +56,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11651233,6.10469985
-                125.11653299,6.10473267
-                125.11655605,6.10471812
-                125.11653538,6.10468530
-                125.11651233,6.10469985
-                </coordinates>
+                125.11751233,6.10569985
+                125.11753299,6.10573267
+                125.11755605,6.10571812
+                125.11753538,6.10568530
+                125.11751233,6.10569985
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -72,12 +72,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11647589,6.10470455
-                125.11649052,6.10474604
-                125.11654736,6.10470950
-                125.11653777,6.10469116
-                125.11647589,6.10470455
-                </coordinates>
+                125.11747589,6.10570455
+                125.11749052,6.10574604
+                125.11754736,6.10570950
+                125.11753777,6.10569116
+                125.11747589,6.10570455
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -88,12 +88,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11649052,6.10474604
-                125.11662198,6.10481607
-                125.11667002,6.10477819
-                125.11654736,6.10470950
-                125.11649052,6.10474604
-                </coordinates>
+                125.11749052,6.10574604
+                125.11762198,6.10581607
+                125.11767002,6.10577819
+                125.11754736,6.10570950
+                125.11749052,6.10574604
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -104,12 +104,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11662198,6.10481607
-                125.11662588,6.10488854
-                125.11668693,6.10483953
-                125.11667002,6.10477819
-                125.11662198,6.10481607
-                </coordinates>
+                125.11762198,6.10581607
+                125.11762588,6.10588854
+                125.11768693,6.10583953
+                125.11767002,6.10577819
+                125.11762198,6.10581607
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -120,12 +120,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11662588,6.10488854
-                125.11674700,6.10497987
-                125.11679448,6.10491392
-                125.11668693,6.10483953
-                125.11662588,6.10488854
-                </coordinates>
+                125.11762588,6.10588854
+                125.11774700,6.10597987
+                125.11779448,6.10591392
+                125.11768693,6.10583953
+                125.11762588,6.10588854
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -136,12 +136,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11663346,6.10486701
-                125.11662887,6.10499455
-                125.11672231,6.10490362
-                125.11668619,6.10485557
-                125.11663346,6.10486701
-                </coordinates>
+                125.11763346,6.10586701
+                125.11762887,6.10599455
+                125.11772231,6.10590362
+                125.11768619,6.10585557
+                125.11763346,6.10586701
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -152,12 +152,12 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11662887,6.10499455
-                125.11668932,6.10497570
-                125.11669093,6.10490525
-                125.11672231,6.10490362
-                125.11662887,6.10499455
-                </coordinates>
+                125.11762887,6.10599455
+                125.11768932,6.10597570
+                125.11769093,6.10590525
+                125.11772231,6.10590362
+                125.11762887,6.10599455
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
@@ -168,16 +168,16 @@
           <outerBoundaryIs>
             <LinearRing>
               <coordinates>
-                125.11668932,6.10497570
-                125.11675448,6.10496406
-                125.11674044,6.10489324
-                125.11669093,6.10490525
-                125.11668932,6.10497570
-                </coordinates>
+                125.11768932,6.10597570
+                125.11775448,6.10596406
+                125.11774044,6.10589324
+                125.11769093,6.10590525
+                125.11768932,6.10597570
+              </coordinates>
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
       </MultiGeometry>
     </Placemark>
-    </Document>
+  </Document>
 </kml>
