@@ -32,7 +32,7 @@
         <p>This is the description of the imaginary cave.</p>
         <dl>
           <dt>Cave Name</dt>
-          <dd>yey_cave</dd>
+          <dd class="cave-name">yey_cave</dd>
           <dt>Coordinates</dt>
           <dd>Latitude: 6.10569500, Longitude: 125.11752001</dd>
         </dl>
@@ -186,7 +186,7 @@
         <p>This is the description of the imaginary cave.</p>
         <dl>
           <dt>Cave Name</dt>
-          <dd>sheesh_cave</dd>
+          <dd class="cave-name">sheesh_cave</dd>
           <dt>Coordinates</dt>
           <dd>Latitude: 6.10669500, Longitude: 125.11852001</dd>
         </dl>
